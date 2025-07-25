@@ -1,1 +1,1 @@
-# AZure-MLops
+# Azure-MLops
